@@ -1,7 +1,7 @@
 include::partial$variables.adoc[]
 
 = {PRODUCT_NAME}
-:description: {PRODUCT_NAME} is an open-source, self-hosted Low-Code Development Platform.
+:description: {PRODUCT_NAME} is an open-source, self-hosted Low-Code Development Platform. test
 :keywords: {PRODUCT_NAME}, documentation, open-source, self-hosted, low-code platform
 
 {PRODUCT_NAME} is an open-source, self-hosted Low-Code Development Platform built upon modern technologies.
